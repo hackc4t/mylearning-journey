@@ -31,5 +31,5 @@ Type B
 
 
 ## 📝 Notes
-> Type A is good for documentation because the scan file is saved.
+> Type A is good for documentation because the scan file is saved. 
 > Type B is better for practice or exploitation since no scan file is stored.
