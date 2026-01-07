@@ -1,4 +1,4 @@
-Two Types of Port Scanning
+# Two Types of Port Scanning
 
 Type A
 
