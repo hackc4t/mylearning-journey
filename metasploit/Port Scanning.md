@@ -19,7 +19,7 @@ Type B
 
 1. Enter msf then create another workspace
 
-   <img src="./image-files/3.png" alt="Nmap Recon Example" width="1000"><br>
+   <img src="./image-files/4.png" alt="Nmap Recon Example" width="1000"><br>
 
 2. Scan inside msf
 
