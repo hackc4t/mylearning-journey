@@ -3,7 +3,7 @@
 ---
 
 ## 📘 About
-Hi! This repository is a personal record of my learning journey.
+Greetings! This repository is a personal record of my learning journey.
 It may include topics I have learned beyond the scope of cybersecurity. It was created solely to allow me to revisit and reflect on what I have learned.
 
 ---
