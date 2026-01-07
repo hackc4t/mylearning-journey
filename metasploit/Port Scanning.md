@@ -28,3 +28,8 @@ Type B
 3. Check hosts and services
 
    <img src="./image-files/6.png" alt="Nmap Recon Example" width="1000"><br>
+
+
+## 📝 Notes
+> Type A is good for documentation because the scan file is saved.
+> Type B is better for practice or exploitation since no scan file is stored.
