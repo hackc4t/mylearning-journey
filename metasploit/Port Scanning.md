@@ -1,4 +1,4 @@
 Two Types of Port Scanning
 
 1. Creating file then import.
-2. 
+<img src="./image-files/1.png" alt="Nmap Recon Example" width="500"><br>
