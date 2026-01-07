@@ -1,10 +1,9 @@
-# My TryHackMe Journey
+# My Learning Documentation
 
 ---
 
-## 📘 About
-Greetings! This is a portfolio of my TryHackMe journey.  
-This repository contains TryHackMe materials and provides answers for each section, along with the steps required to capture any flags used to complete the tasks. This journey will be documented progressively according to my study schedule, so it may take some time to complete. Thank you!
+## 📘 AboutHi! This repository is a personal record of my learning journey.
+It may include topics I have learned beyond the scope of cybersecurity. It was created solely to allow me to revisit and reflect on what I have learned.
 
 ---
 
@@ -20,11 +19,6 @@ This repository contains TryHackMe materials and provides answers for each secti
 If you find any mistakes, unclear explanations, or have suggestions regarding the content of this repository, feel free to create an **[Issue](https://github.com/hackc4t/tryhackme-journey/issues)** here.  
 
 Your feedback is highly appreciated and will help me improve this documentation!
-
----
-
-## 📝 Notes  
-> Some links require a TryHackMe subscription.
 
 ---
 
