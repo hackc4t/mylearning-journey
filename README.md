@@ -8,10 +8,10 @@ It may include topics I have learned beyond the scope of cybersecurity. It was c
 
 ---
 
-## 🔎 Paths
-| Name              | Difficulty | Date              | Link                        |
-|-------------------|------------|-------------------|-----------------------------|
-| Security Engineer | Beginner   | October 16, 2025  | https://tryhackme.com/paths |
+## 🔎 Topics
+| Name              | Date              | Link                        |
+|-------------------|-------------------|-----------------------------|
+| Security Engineer | January 6, 2026  | https://tryhackme.com/paths |
 
 ---
 
